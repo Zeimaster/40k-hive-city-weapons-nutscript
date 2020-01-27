@@ -1,0 +1,371 @@
+ITEM.name = "Hornet Pattern Flechette Rifle"
+ITEM.desc = "A mysterious weapon. Launches flechette that stick to their target and then combust violently"
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_hornet"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Rifle"
+ITEM.uniqueID "hornet" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 4
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "ALV-1 Pulsar Sniper"
+ITEM.desc = "A mysterious weapon. After charging, fires a singular energy beam"
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_pulsar"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Sniper"
+ITEM.uniqueID "hornet" 
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "AQM Lapis Pistol"
+ITEM.desc = "A mysterious weapon. Fires a plasma like substenance"
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_lapis"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons -  Pistol"
+ITEM.uniqueID "lapis" 
+ITEM.ammoString = "Pistol Ammo"
+ITEM.weight = 2
+ITEM.width = 2
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "ARX Vapor Cannon"
+ITEM.desc = "A mysterious weapon. Fires energy bolts, can overcharge to fire a radiation blast."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_vapor"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Rifle"
+ITEM.uniqueID "vapor" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 4
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}}
+
+ITEM.name = "ARX.2 Falling Star Cannon"
+ITEM.desc = "A mysterious weapon. Fires radiation bolts, can overcharge to fire a binding blast, holding people in place."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_fallingstar"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Rifle"
+ITEM.uniqueID "fallingstar" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 4
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "ASR-5 Storm Shotgun"
+ITEM.desc = "A mysterious weapon. Fires a hail of energy bolts."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_storm"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Shotgun"
+ITEM.uniqueID "storm" 
+ITEM.ammoString = "shotgun Ammo"
+ITEM.weight = 2
+ITEM.width = 2
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS107 Phoenix Sniper Rifle"
+ITEM.desc = "A mysterious weapon. Fires a single beam of plasma like substenance melting the target."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_phoenix"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Sniper"
+ITEM.uniqueID "phoenix" 
+ITEM.ammoString = "Crossbow bolts"
+ITEM.weight = 6
+ITEM.width = 4
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS12-CF Phoenix Ember Pistol"
+ITEM.desc = "A mysterious weapon. Fires a single beam of plasma like substenance melting the target, rechages it's own battery."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_ember"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons -  Pistol"
+ITEM.uniqueID "ember" 
+ITEM.weight = 2
+ITEM.width = 2
+ITEM.height = 1
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS20-40 Seraphim shotgun"
+ITEM.desc = "A mysterious weapon. Fires multiple beams of plasma like substenance melting the target."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_seraphim"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Shotgun"
+ITEM.uniqueID "seraphim" 
+ITEM.ammoString = "Shotgun Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS200-X Pyre Grenade Launcher"
+ITEM.desc = "A mysterious weapon. Fires a unstable plasma grenade that explodes in a heatblast."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_pyre"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Explosive"
+ITEM.uniqueID "pyre" 
+ITEM.ammoString = "Grenades"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS24 Heatwave Light Rifle"
+ITEM.desc = "A mysterious weapon. Fires heat bullets."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_hwave"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "hwave" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS24 Sapphire Light Rifle"
+ITEM.desc = "A mysterious weapon. Fires a energy bolts."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_saphyre"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "saphyre" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS24-K1 Pandemic"
+ITEM.desc = "A mysterious weapon. Fires matter eating rounds supported by Neurotoxins."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_pandemic"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "pandemic" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+
+ITEM.name = "HS46-C Draco Carbine"
+ITEM.desc = "A mysterious weapon. Fires Incindinairy ammunition. Unknown compound that burns bright"
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_draco"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "draco" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS46-VP Aquamarine Carbine"
+ITEM.desc = "A mysterious weapon. Fires high energy energy beams."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_aquamarine"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "aquamarine" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "HS46-VP Aquamarine Carbine"
+ITEM.desc = "A mysterious weapon. Fires high energy beams."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_aquamarine"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "aquamarine" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "MTM Neutrino cannon"
+ITEM.desc = "A mysterious weapon. Fires matter eating energy beams."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_neutrino"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "neutrino" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "RK22 Hellfire SMG"
+ITEM.desc = "A mysterious weapon. Fires incindinairy explosive rounds."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_hellfire"
+ITEM.weaponCategory = "secondary"
+ITEM.category = “Weapons - SMG"
+ITEM.uniqueID "hellfire" 
+ITEM.ammoString = "SMG Ammo"
+ITEM.weight = 4
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "T3I Blizzard SMG"
+ITEM.desc = "A mysterious weapon. Riot control, freezes targets solid. Never deployed due to crystal build up"
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_blizzard"
+ITEM.weaponCategory = "secondary"
+ITEM.category = “Weapons - SMG"
+ITEM.uniqueID "blizzard" 
+ITEM.ammoString = "SMG Ammo"
+ITEM.weight = 4
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "RK800 Behemoth Chain-gun"
+ITEM.desc = "A mysterious weapon. Charges up to unleash a storm of bullets."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_behemoth"
+ITEM.weaponCategory = "Primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "behemoth" 
+ITEM.ammoString = "SMG Ammo"
+ITEM.weight = 4
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "RK800 Behemoth Chain-gun"
+ITEM.desc = "A mysterious weapon. Charges up to unleash a storm of bullets."
+ITEM.model = "models/astartes/prop pack/st_boxammo_01a.mdl" 
+ITEM.class = "sfw_behemoth"
+ITEM.weaponCategory = "Primary"
+ITEM.category = “Weapons - rifle"
+ITEM.uniqueID "hellfire" 
+ITEM.ammoString = "SMG Ammo"
+ITEM.weight = 4
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Psyker Focus"
+ITEM.desc = "Utilizing this somewhat simple rod, psykers can call upon their powers."
+ITEM.model = "models/hpwrewrite/wandbox/boxclosed.mdl" 
+ITEM.class = "weapon_hpwr_stick"
+ITEM.weaponCategory = "Primary"
+ITEM.category = “Weapons - Other"
+ITEM.uniqueID "wand" 
+ITEM.weight = 1
+ITEM.width = 2
+ITEM.height = 1
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
