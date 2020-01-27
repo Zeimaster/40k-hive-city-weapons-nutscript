@@ -1,0 +1,252 @@
+RECIPES:Register( RECIPE )
+//
+RECIPE = {}
+RECIPE.uid = "autogun"
+RECIPE.name = "Auto-gun Pattern Nova"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/autogun.mdl" )
+RECIPE.desc = "A Auto-gun Variant, fully automatic with many attachments."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_frame"] = 1,
+    ["auto_gun_nova_barrel"] = 1,
+    ["auto_gun_nova_action"] = 1,
+    ["auto_gun_nova_grip"] = 1
+}
+RECIPE.result = {
+    ["weapon_autogun"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "autogunsniper"
+RECIPE.name = "Auto-gun Pattern Nova Sniper"
+RECIPE.category = "Weapons - Sniper"
+RECIPE.model = Model( "models/autogun_long_barrel.mdl" )
+RECIPE.desc = "A Auto-gun Sniper Variant, Semi automatic with many attachments."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_frame"] = 1,
+    ["auto_gun_snova_barrel"] = 1,
+    ["auto_gun_snova_action"] = 1,
+    ["auto_gun_snova_grip"] = 1
+}
+RECIPE.result = {
+    ["weapon_autogun_sniper"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "boltpistol"
+RECIPE.name = "Bolt Pistol"
+RECIPE.category = "Weapons - Pistol"
+RECIPE.model = Model( "models/joazzz/weapons/boltpistol.mdl" )
+RECIPE.desc = "A Bolt pistol. Customizable and very rare, firing explosive rounds."
+ 
+RECIPE.items = {
+    ["boltpistol_frame"] = 1,
+    ["boltpistol_barrel"] = 1,
+    ["boltpistol_action"] = 1,
+    ["boltpistol_grip"] = 1,
+    ["boltpistol_eject_system"] = 1 
+}
+RECIPE.result = {
+    ["weapon_bolter_pistol"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "bolter"
+RECIPE.name = "Bolter"
+RECIPE.category = "Weapons - Explosive"
+RECIPE.model = Model( "models/weapons/w_bolter.mdl" )
+RECIPE.desc = "A Bolter. Customizable and very rare, firing explosive rounds. Locke Pattern useable by humans"
+ 
+RECIPE.items = {
+    ["bolter_eject_system"] = 1,
+    ["bolter_frame"] = 1,
+    ["bolter_barrel"] = 1,
+    ["bolter_action"] = 1,
+    ["bolter_grip"] = 1
+}
+RECIPE.result = {
+    ["weapon_bolter"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "grlauncher"
+RECIPE.name = "Nova Terra Pattern Grenade Launcher"
+RECIPE.category = "Weapons -  Explosive"
+RECIPE.model = Model( "models/grenadelaucher.mdl" )
+RECIPE.desc = "A Grenade launcher. Customizable ammo types, firing explosive, stun, gas or smoke rounds."
+ 
+RECIPE.items = {
+    ["grlauncer_rotery_cylinder"] = 1,
+    ["grlauncer_frame"] = 1,
+    ["grlauncer_barrel"] = 1,
+    ["grlauncer_grip"] = 1,
+    ["grlauncer_eject_system"] = 1
+}
+RECIPE.result = {
+    ["weapon_grlauncher"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "laspistol"
+RECIPE.name = "Laspistol"
+RECIPE.category = "Weapons - Pistol"
+RECIPE.model = Model( "models/weapons/laspistol.mdl" )
+RECIPE.desc = "A Laspistol. Customizable, easy to use."
+ 
+RECIPE.items = {
+    ["las_conductor"] = 1,
+    ["las_barrel"] = 1,
+    ["laspistol_frame"] = 1,
+    ["laspistol_grip"] = 1
+}
+RECIPE.result = {
+    ["weapon_laspis"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "lascarbine"
+RECIPE.name = "Lascarbine"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/weapons/lascarabin.mdl" )
+RECIPE.desc = "A Lascarbine. Customizable, easy to use. Fires shots automaticly instead of semi automatic"
+ 
+RECIPE.items = {
+    ["las_conductor"] = 1,
+    ["las_barrel"] = 1,
+    ["lascarbine_stock"] = 1,
+    ["lascarbine_frame"] = 1,
+    ["lascarbine_lens"] = 1
+}
+RECIPE.result = {
+    ["weapon_lascarskins"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "lasgun"
+RECIPE.name = "Lasgun"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/weapons/ig_lasgun.mdl" )
+RECIPE.desc = "A Lasgun. Customizable, easy to use. Fires semi-automaticly."
+ 
+RECIPE.items = {
+    ["las_conductor"] = 1,
+    ["las_barrel"] = 1,
+    ["lasgun_stock"] = 1,
+    ["lasgun_frame"] = 1,
+    ["lasgun_lens"] = 1
+}
+RECIPE.result = {
+    ["weapon_lasgunskins"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "longlas"
+RECIPE.name = "LongLas"
+RECIPE.category = "Weapons -  Rifle"
+RECIPE.model = Model( "models/weapons/longlas.mdl" )
+RECIPE.desc = "A longlas. Customizable, easy to use. Fires semi-automaticly, works as sniper instead of rifle."
+ 
+RECIPE.items = {
+    ["las_conductor"] = 1,
+    ["las_barrel"] = 1,
+    ["longlas_stock"] = 1,
+    ["longlas_frame"] = 1,
+    ["longlas_lens"] = 1
+}
+RECIPE.result = {
+    ["weapon_longlas"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "luciuslasgun"
+RECIPE.name = "Lucius Pattern Lasgun"
+RECIPE.category = "Weapons -  Rifle"
+RECIPE.model = Model( "models/weapons/w_lucius.mdl" )
+RECIPE.desc = "A Lasgun variant. Imported from Krieg, known to be the household lasgun of that world."
+ 
+RECIPE.items = {
+    ["las_conductor"] = 1,
+    ["las_barrel"] = 1,
+    ["luciuslas_stock"] = 1,
+    ["luciuslas_frame"] = 1,
+    ["luciuslas_lens"] = 1
+}
+RECIPE.result = {
+    ["weapon_krieg"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "chainsword"
+RECIPE.name = "Chainsword"
+RECIPE.category = "Weapons -  Melee"
+RECIPE.model = Model( "models/joazzz/weapons/chainsword.mdl" )
+RECIPE.desc = "A Chainsword. Grinds trough meat and metal with ease, quite unwieldy to use."
+ 
+RECIPE.items = {
+    ["chainsword_motor"] = 1,
+    ["chainsword_teeth"] = 1,
+    ["chaisword_grip"] = 1,
+    ["chainsword_trigger"] = 1,
+    ["chainsword_frame"] = 1,
+}
+RECIPE.result = {
+    ["tfa_zad_chainsword"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "combatknife"
+RECIPE.name = "Combat Knife"
+RECIPE.category = "Weapons -  Melee"
+RECIPE.model = Model( "models/joazzz/weapons/combatknife.mdl" )
+RECIPE.desc = "A Combat knife. It was too big to be called a knife. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron."
+ 
+RECIPE.items = {
+    ["knife_blade"] = 1,
+    ["knife_grip"] = 1
+}
+RECIPE.result = {
+    ["tfa_zad_combatknife"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "meltagun"
+RECIPE.name = "Meltagun"
+RECIPE.category = "Weapons -  Shotgun"
+RECIPE.model = Model( "models/joazzz/weapons/meltagun.mdl" )
+RECIPE.desc = "A Meltagun. Shoots a beam of intense heat at armored targets, melting trough them"
+ 
+RECIPE.items = {
+    ["melta_coolent"] = 1,
+    ["melta_barrel"] = 1,
+    ["melta_frame"] = 1,
+    ["melta_heatchamber"] = 1,
+    ["melta_grip"] = 1
+}
+RECIPE.result = {
+    ["tfa_zad_meltacadia"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "rocketlauncher"
+RECIPE.name = "Rocket Launcher"
+RECIPE.category = "Weapons -  Explosive"
+RECIPE.model = Model( "models/weapons/w_ig_missilelauncher.mdl" )
+RECIPE.desc = "A reloadable Rocket Launcher. Fires rockets that explode. Incase that wasnt obvious"
+ 
+RECIPE.items = {
+    ["rocket_grip"] = 1,
+    ["rocket_barrel"] = 1,
+    ["rocket_frame"] = 1,
+    ["rocket_action"] = 1
+}
+RECIPE.result = {
+    ["tfa_rlauncher"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "hellgun"
+RECIPE.name = "Hellgun"
+RECIPE.category = "Weapons -  Rifle"
+RECIPE.model = Model( "tfa_zad_lasgun_hotshot" )
+RECIPE.desc = "A Hellgun. by overcharging a regular lasgun you create a hellgun with deadlier shots at the expense of the battery."
+ 
+RECIPE.items = {
+    ["hellgun_stock"] = 1,
+    ["hellgun_frame"] = 1,
+    ["hellgun_barrel"] = 1,
+    ["hellgun_grip"] = 1,
+    ["hellgun_lens"] = 1 
+}
+RECIPE.result = {
+    ["tfa_zad_lasgun_hotshot"] = 1
+}
