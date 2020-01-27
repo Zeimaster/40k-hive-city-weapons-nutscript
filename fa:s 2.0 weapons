@@ -1,0 +1,597 @@
+ITEM.name = "Auto-gun Pattern AK12"
+ITEM.desc = "A Autogun Variant, fires in semi or fully automatic."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_ak12"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle”
+ITEM.uniqueID = "ak12" 
+ITEM.ammoString = "5.45x39MM Ammo"
+ITEM.weight = 5
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern AK47"
+ITEM.desc = "A Autogun Variant, fires in semi or fully automatic. Is known to be cheap and inaccurate"
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_ak47"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle”
+ITEM.uniqueID = "ak47" 
+ITEM.ammoString = "7.62x39MM Ammo"
+ITEM.weight = 5
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern AK74"
+ITEM.desc = "A Autogun Variant, fires in semi or fully automatic. Succesor to the AK47 pattern"
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_ak74"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle”
+ITEM.uniqueID "ak74" 
+ITEM.ammoString = "5.45x39MM Ammo"
+ITEM.weight = 5
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern AN94"
+ITEM.desc = "A Autogun Variant, fires in burst, semi or fully automatic. "
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_an94"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle”
+ITEM.uniqueID "an94" 
+ITEM.ammoString = "5.45x39MM Ammo Ammo"
+ITEM.weight = 4
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+
+ITEM.name = "Auto-gun Pattern Dragunov SVD"
+ITEM.desc = "A Autogun Sniper Variant, fires semi automatic and is easy to handle."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_svd"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Sniper”
+ITEM.uniqueID "svd" 
+ITEM.ammoString = "7.62x54MM Ammo"
+ITEM.weight = 10
+ITEM.width = 6
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "DV2 Pattern Combat Knife"
+ITEM.desc = "A standard issue knife, utilized everywhere in service of the Emperor."
+ITEM.model = "models/weapons/w_knife_ct.mdl"
+ITEM.class = "fas2_svd"
+ITEM.weaponCategory = "melee"
+ITEM.category = “Weapons - Melee"
+ITEM.uniqueID "dv2knife" 
+ITEM.weight = 2
+ITEM.width = 2
+ITEM.height = 1
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern Famas F1"
+ITEM.desc = "A Autogun  Variant, fires in burst, semi or fully automatic, known for the unusual design."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_famas"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle”
+ITEM.uniqueID "famas" 
+ITEM.ammoString = "5.56x45MM Ammo"
+ITEM.weight = 6
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern G36C"
+ITEM.desc = "A Autogun  Variant, fires in burst, semi or fully automatic."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_g36c"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle”
+ITEM.uniqueID "g36c" 
+ITEM.ammoString = "5.56x45MM Ammo"
+ITEM.weight = 6
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern G3A3"
+ITEM.desc = "A Autogun  Variant, fires in burst, semi or fully automatic."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_g3"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle”
+ITEM.uniqueID "g3a3" 
+ITEM.ammoString = "7.62x51MM Ammo"
+ITEM.weight = 6
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-pistol Pattern Glock20"
+ITEM.desc = "A Autopistol  Variant, fires semi automatic. Very common in the underhive"
+ITEM.model = "models/warz/alicebackpack.mdl"
+ITEM.class = "fas2_glock20"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons - Pistol”
+ITEM.uniqueID "glock" 
+ITEM.ammoString = "10x25MM Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 1
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-pistol Pattern IMI Desert Eagle"
+ITEM.desc = "A Autopistol  Variant, fires semi automatic. Big Caliber means leaving big holes"
+ITEM.model = "models/warz/alicebackpack.mdl"
+ITEM.class = "fas2_deagle"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons - Pistol”
+ITEM.uniqueID "glock" 
+ITEM.ammoString = ".50 AE Ammo"
+ITEM.weight = 4
+ITEM.width = 3
+ITEM.height = 1
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern IMI Galil"
+ITEM.desc = "A Autogun Variant, fires semi or fully automatic. "
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_galil"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle”
+ITEM.uniqueID "galil" 
+ITEM.ammoString = "5.56x45MM Ammo"
+ITEM.weight = 5
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern IMI UZI"
+ITEM.desc = "A Autogun Variant, fires semi or fully automatic. Utilized in high speed hit and runs."
+ITEM.model = "models/warz/alicebackpack.mdl"
+ITEM.class = "fas2_uzi"
+ITEM.weaponCategory = "secondary"
+ITEM.category = “Weapons - SMG”
+ITEM.uniqueID "uzi" 
+ITEM.ammoString = "9x19MM Ammo"
+ITEM.weight = 4
+ITEM.width = 2
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-shotgun Pattern KS23"
+ITEM.desc = "A Auto-shotgun Variant, Pump action. Deadly at many ranges."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_ks23"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Shotgun”
+ITEM.uniqueID "ks23" 
+ITEM.ammoString = "23x75MMR Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern M11A1"
+ITEM.desc = "A Auto-gun Variant, Semi or fully automatic. spraying and praying is the way to go."
+ITEM.model = "models/warz/alicebackpack.mdl"
+ITEM.class = "fas2_mac11"
+ITEM.weaponCategory = "secondary"
+ITEM.category = “Weapons - SMG"
+ITEM.uniqueID "m11a1" 
+ITEM.ammoString = ".380 ACP Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern M14"
+ITEM.desc = "A Auto-gun Variant, Semi automatic. Usefull for medium range."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m14"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "m14" 
+ITEM.ammoString = "7.62x51MM Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern M16A2"
+ITEM.desc = "A Auto-gun Variant, Semi automatic or burst fire."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m16a2"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "m16a2" 
+ITEM.ammoString = "5.56x45MM Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+
+ITEM.name = "Auto-pistol Pattern M1911"
+ITEM.desc = "A Auto-gun Variant, Semi automatic. Small magazine"
+ITEM.model = "models/warz/alicebackpack.mdl"
+ITEM.class = "fas2_m1911"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons - pistol"
+ITEM.uniqueID "m1911" 
+ITEM.ammoString = ".45 ACP Ammo"
+ITEM.weight = 5
+ITEM.width = 3
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern M21"
+ITEM.desc = "A Auto-gun Sniper Variant, Semi automatic. "
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m21"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Sniper"
+ITEM.uniqueID "m21" 
+ITEM.ammoString = "7.62x51MM Ammo"
+ITEM.weight = 5
+ITEM.width = 4
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern M24"
+ITEM.desc = "A Auto-gun Sniper Variant, Bolt action. "
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m24"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Sniper"
+ITEM.uniqueID "m24" 
+ITEM.ammoString = "7.62x51MM Ammo"
+ITEM.weight = 5
+ITEM.width = 4
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern M249"
+ITEM.desc = "A Auto-machinegun Variant, Automatic. Large magazine with a enormous rate of fire "
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m249"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Machinegun"
+ITEM.uniqueID "m249" 
+ITEM.ammoString = "5.56x45MM Ammo"
+ITEM.weight = 8
+ITEM.width = 4
+ITEM.height = 4
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-shotgun Pattern M3S90"
+ITEM.desc = "A Auto-shotgun Variant, Semi-Automatic. Clears rooms like no other "
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m3s90"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Shotgun"
+ITEM.uniqueID "m3s90" 
+ITEM.ammoString = "12 Gauge Ammo"
+ITEM.weight = 6
+ITEM.width = 3
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+
+ITEM.name = "Auto-gun Pattern M4A1"
+ITEM.desc = "A Autogun Variant, semi and fully automatic."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m4a1"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "m4a1" 
+ITEM.ammoString = "5.56x45MM Ammo"
+ITEM.weight = 6
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+
+ITEM.name = "Auto-gun Pattern M60E3"
+ITEM.desc = "A Auto-machinegun Variant, fully automatic with a large box magazine."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m60e3"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Machinegun"
+ITEM.uniqueID "m60e3" 
+ITEM.ammoString = "7.62x51MM Ammo"
+ITEM.weight = 9
+ITEM.width = 4
+ITEM.height = 4
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern M82"
+ITEM.desc = "A Autogun Sniper Variant, Large caliber that turns living tissue into a fine red mist"
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_m82"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Sniper"
+ITEM.uniqueID "M82" 
+ITEM.ammoString = ".50 BMG Ammo"
+ITEM.weight = 9
+ITEM.width = 4
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+
+ITEM.name = "Machete"
+ITEM.desc = "A standard issue Machette, utilized everywhere in service of the Emperor, to cut jungle and beast."
+ITEM.model = "models/warz/alicebackpack.mdl"
+ITEM.class = "fas2_machete"
+ITEM.weaponCategory = "melee"
+ITEM.category = “Weapons - Melee"
+ITEM.uniqueID "machete" 
+ITEM.weight = 2
+ITEM.width = 2
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern MC51B"
+ITEM.desc = "A Auto-machinegun Variant, fully automatic with a medium size box magazine."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_vollmer"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Machinegun"
+ITEM.uniqueID "vollmer" 
+ITEM.ammoString = "7.62x51MM Ammo"
+ITEM.weight = 7
+ITEM.width = 4
+ITEM.height = 4
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern MINIMI"
+ITEM.desc = "A Auto-machinegun Variant, fully automatic with a large box magazine."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_minimi"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Machinegun"
+ITEM.uniqueID "minimi" 
+ITEM.ammoString = "7.62x51MM Ammo"
+ITEM.weight = 8
+ITEM.width = 4
+ITEM.height = 4
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern MP5A5"
+ITEM.desc = "A Auto-gun Variant, Semi and fully automatic SMG. Sleek design enables easy use."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_mp5a5"
+ITEM.weaponCategory = "secondary"
+ITEM.category = “Weapons - SMG"
+ITEM.uniqueID "mp5a5" 
+ITEM.ammoString = "9x19MM Ammo"
+ITEM.weight = 4
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern MP5K"
+ITEM.desc = "A Auto-gun Variant, Semi and fully automatic SMG. Smaller size means easier concealment."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_mp5k"
+ITEM.weaponCategory = "secondary"
+ITEM.category = “Weapons - SMG"
+ITEM.uniqueID "mp5K" 
+ITEM.ammoString = "9x19MM Ammo"
+ITEM.weight = 4
+ITEM.width = 2
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-Pistol Pattern OTS33"
+ITEM.desc = "A Auto-gun Variant, Semi and fully automatic pistol."
+ITEM.model = "models/warz/alicebackpack.mdl"
+ITEM.class = "fas2_ots33"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons - Pistol"
+ITEM.uniqueID "OTS33" 
+ITEM.ammoString = "9x18MM Ammo"
+ITEM.weight = 3
+ITEM.width = 2
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-Pistol Pattern Raging Bull"
+ITEM.desc = "A Auto-gun Variant, Large Caliber revolver. "
+ITEM.model = "models/warz/alicebackpack.mdl"
+ITEM.class = "fas2_ragingbull"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons - Pistol"
+ITEM.uniqueID "ragingbull" 
+ITEM.ammoString = ".454 Casull Ammo"
+ITEM.weight = 4
+ITEM.width = 2
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-shotgun Pattern Remmington 870"
+ITEM.desc = "A Auto-shotgun Variant, Pump action. Can hold plenty of shots."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_rem870"
+ITEM.weaponCategory = "Primary"
+ITEM.category = “Weapons - Shotgun"
+ITEM.uniqueID "rem870" 
+ITEM.ammoString = "12 Gauge Ammo"
+ITEM.weight = 6
+ITEM.width = 3
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern Sterling 12A3"
+ITEM.desc = "A Auto-gun Variant, Semi and fully automatic SMG. Smaller size means easier concealment."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_sterling_l2a3"
+ITEM.weaponCategory = "secondary"
+ITEM.category = “Weapons - SMG"
+ITEM.uniqueID "12a3" 
+ITEM.ammoString = "9x19MM Ammo"
+ITEM.weight = 4
+ITEM.width = 2
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-shotgun Pattern TOZ-34"
+ITEM.desc = "A Auto-shotgun Variant in name only, Two shots. Used to hunt things best not named."
+ITEM.model = "models/vj_props/duffle_bag.mdl"
+ITEM.class = "fas2_toz34"
+ITEM.weaponCategory = "Primary"
+ITEM.category = “Weapons - Shotgun"
+ITEM.uniqueID "toz34" 
+ITEM.ammoString = "12 Gauge Ammo"
+ITEM.weight = 6
+ITEM.width = 3
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
