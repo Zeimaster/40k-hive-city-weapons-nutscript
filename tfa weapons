@@ -1,0 +1,252 @@
+ITEM.name = "Auto-gun Pattern Nova"
+ITEM.desc = "A Auto-gun Variant, fully automatic with many attachments. "
+ITEM.model = "models/autogun.mdl"
+ITEM.class = "weapon_autogun"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Rifle"
+ITEM.uniqueID "autogun" 
+ITEM.ammoString = "SMG Ammo"
+ITEM.weight = 5
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Auto-gun Pattern Nova Sniper"
+ITEM.desc = "A Auto-gun Sniper Variant, Semi automatic with many attachments. "
+ITEM.model = "models/autogun_long_barrel.mdl"
+ITEM.class = "weapon_autogun_sniper"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Sniper"
+ITEM.uniqueID "autogunsniper" 
+ITEM.ammoString = "SMG Ammo"
+ITEM.weight = 5
+ITEM.width = 4
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Bolt Pistol"
+ITEM.desc = "A Bolt pistol. Customizable and very rare, firing explosive rounds  "
+ITEM.model = "models/joazzz/weapons/boltpistol.mdl" 
+ITEM.class = "weapon_bolter_pistol"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons - explosive"
+ITEM.uniqueID "boltpistol" 
+ITEM.ammoString = "SLAM Ammo"
+ITEM.weight = 6
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Bolter"
+ITEM.desc = "A Bolter. Customizable and very rare, firing explosive rounds. Standard Astartes weapon. "
+ITEM.model = "models/joazzz/weapons/boltpistol.mdl"
+ITEM.class = "weapon_bolter"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons - Bolt weapon"
+ITEM.uniqueID "bolter" 
+ITEM.ammoString = "SLAM Ammo"
+ITEM.weight = 8
+ITEM.width = 4
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Nova Terra Pattern Grenade Launcher "
+ITEM.desc = "A Grenade launcher. Customizable ammo types, firing explosive, stun, gas or smoke rounds."
+ITEM.model = "models/grenadelaucher.mdl"
+ITEM.class = "weapon_grlauncher"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  explosive"
+ITEM.uniqueID "grlauncher" 
+ITEM.ammoString = "SMG Grenades Ammo"
+ITEM.weight = 8
+ITEM.width = 4
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Laspistol "
+ITEM.desc = "A Laspistol. Customizable, easy to use. "
+ITEM.model = "models/weapons/laspistol.mdl"
+ITEM.class = "weapon_laspis"
+ITEM.weaponCategory = "sidearm"
+ITEM.category = “Weapons -  sidearm"
+ITEM.uniqueID "laspistol" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Lascarbine "
+ITEM.desc = "A Lascarbine. Customizable, easy to use. Fires shots automaticly instead of semi automatic "
+ITEM.model = "models/weapons/lascarabin.mdl"
+ITEM.class = "weapon_lascarskins"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Rifle"
+ITEM.uniqueID "lascarbine" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Lasgun "
+ITEM.desc = "A Lasgun. Customizable, easy to use. Fires semi-automaticly."
+ITEM.model = "models/weapons/ig_lasgun.mdl" 
+ITEM.class = "weapon_lasgunskins"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Rifle"
+ITEM.uniqueID "lasgun" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Longlas"
+ITEM.desc = "A longlas. Customizable, easy to use. Fires semi-automaticly, works as sniper instead of rifle."
+ITEM.model = "models/weapons/longlas.mdl" 
+ITEM.class = "weapon_longlas"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Rifle"
+ITEM.uniqueID "longlas" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Lucius Pattern Lasgun"
+ITEM.desc = "A Lasgun variant. Imported from Krieg, known to be the household lasgun of that world."
+ITEM.model = "models/weapons/w_lucius.mdl" 
+ITEM.class = "weapon_krieg"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Rifle"
+ITEM.uniqueID "luciuslasgun" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Chainsword"
+ITEM.desc = "A Chainsword. Grinds trough meat and metal with ease, quite unwieldy to use"
+ITEM.model = "models/joazzz/weapons/chainsword.mdl" 
+ITEM.class = "tfa_zad_chainsword"
+ITEM.weaponCategory = "melee"
+ITEM.category = “Weapons -  Melee"
+ITEM.uniqueID "chainsword" 
+ITEM.weight = 4
+ITEM.width = 1
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Combat knife"
+ITEM.desc = "A Combat knife. It was too big to be called a knife. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron."
+ITEM.model = "models/joazzz/weapons/combatknife.mdl" 
+ITEM.class = "tfa_zad_combatknife"
+ITEM.weaponCategory = "melee"
+ITEM.category = “Weapons -  Melee"
+ITEM.uniqueID "combatknife" 
+ITEM.weight = 4
+ITEM.width = 1
+ITEM.height = 3
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Meltagun"
+ITEM.desc = "A Meltagun. Shoots a beam of intense heat at armored targets, melting trough them"
+ITEM.model = "models/joazzz/weapons/meltagun.mdl" 
+ITEM.class = "tfa_zad_meltacadia"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Shotgun"
+ITEM.uniqueID "meltagun" 
+ITEM.ammoString = "shotgun Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Rocket Launcher"
+ITEM.desc = "A reloadable Rocket Launcher. Fires rockets that explode. Incase that wasnt obvious"
+ITEM.model = "models/weapons/w_ig_missilelauncher.mdl" 
+ITEM.class = "tfa_rlauncher"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Explosive"
+ITEM.uniqueID "rocketlauncher" 
+ITEM.ammoString = "rockets"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
+
+ITEM.name = "Hellgun"
+ITEM.desc = "A Hellgun. by overcharging a regular lasgun you create a hellgun with deadlier shots at the expense of the battery."
+ITEM.model = "models/weapons/w_hellgun.mdl" 
+ITEM.class = "tfa_zad_lasgun_hotshot"
+ITEM.weaponCategory = "primary"
+ITEM.category = “Weapons -  Rifle"
+ITEM.uniqueID "hellgun" 
+ITEM.ammoString = "AR2 Ammo"
+ITEM.weight = 3
+ITEM.width = 3
+ITEM.height = 2
+ITEM.iconCam = {
+    ang    = Angle(-0.70499622821808, 268.25439453125, 0),
+    fov    = 12.085652091515,
+    pos    = Vector(0, 200, 0)
+}
