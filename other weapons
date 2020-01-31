@@ -1,0 +1,325 @@
+RECIPES:Register( RECIPE )
+//
+RECIPE = {}
+RECIPE.uid = "hornet"
+RECIPE.name = "Hornet Pattern Flechette Rifle"
+RECIPE.category = "Weapons -  Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Launches flechette that stick to their target and then combust violently"
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_Base"] = 1,
+    ["hornet_barrel"] = 1,
+    ["hornet_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_hornet"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "pulsar"
+RECIPE.name = "ALV-1 Pulsar Sniper"
+RECIPE.category = "Weapons -  Sniper"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. After charging, fires a singular energy beam"
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["pulsar_barrel"] = 1,
+    ["pulsar_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_pulsar"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "lapis"
+RECIPE.name = "AQM Lapis Pistol"
+RECIPE.category = "Weapons -  Pistol"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires a plasma like substenance"
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["lapis_barrel"] = 1,
+    ["lapis_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_lapis"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "vapor"
+RECIPE.name = "ARX Vapor Cannon"
+RECIPE.category = "Weapons -  Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires energy bolts, can overcharge to fire a radiation blast."
+ 
+RECIPE.items = {
+    ["laronite_component"] = ,
+    ["mirre_battery"] = ,
+    ["marcherian_base"] = ,
+    ["vapor_barrel"] = ,
+    ["vapor_wiring"] = 
+}
+RECIPE.result = {
+    ["sfw_vapor"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "fallingstar"
+RECIPE.name = "ARX.2 Falling Star Cannon"
+RECIPE.category = "Weapons -  Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires radiation bolts, can overcharge to fire a binding blast, holding people in place."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["fallingstar_barrel"] = 1,
+    ["fallingstar_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_fallingstar"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "storm"
+RECIPE.name = "ASR-5 Storm Shotgun"
+RECIPE.category = "Weapons -  Shotgun"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires a hail of energy bolts."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["storm_barrel"] = 1,
+    ["storm_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_storm"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "phoenix"
+RECIPE.name = "HS107 Phoenix Sniper Rifle"
+RECIPE.category = "Weapons -  Sniper"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires a single beam of plasma like substenance melting the target."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["phoenix_barrel"] = 1,
+    ["phoenix_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_phoenix"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "ember"
+RECIPE.name = "HS12-CF Phoenix Ember Pistol"
+RECIPE.category = "Weapons -  Pistol"
+RECIPE.model = Model( "sfw_ember" )
+RECIPE.desc = "A mysterious weapon. Fires a single beam of plasma like substenance melting the target, rechages it's own battery."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["ember_barrel"] = 1,
+    ["ember_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_ember"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "seraphin"
+RECIPE.name = "HS20-40 Seraphim shotgun"
+RECIPE.category = "Weapons - Shotgun"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires multiple beams of plasma like substenance melting the target."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["seraphin_barrel"] = 1,
+    ["seraphin_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_seraphim"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "pyre"
+RECIPE.name = "HS200-X Pyre Grenade Launcher"
+RECIPE.category = "Weapons - Explosive"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires a unstable plasma grenade that explodes in a heatblast."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["pyre_barrel"] = 1,
+    ["pyre_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_pyre"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "hwave"
+RECIPE.name = "HS24 Heatwave Light Rifle"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires heat bullets."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["hwave_barrel"] = 1,
+    ["hwave_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_hwave"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "saphyre"
+RECIPE.name = "HS24 Sapphire Light Rifle"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires a energy bolts."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["saphyre_barrel"] = 1,
+    ["saphyre_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_saphyre"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "pandemic"
+RECIPE.name = "HS24-K1 Pandemic"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires matter eating rounds supported by Neurotoxins."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["pandemic_barrel"] = 1,
+    ["pandemic_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_pandemic"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "draco"
+RECIPE.name = "HS46-C Draco Carbine"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires Incindinairy ammunition. Unknown compound that burns bright"
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["draco_barrel"] = 1,
+    ["draco_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_draco"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "aquamarine"
+RECIPE.name = "HS46-VP Aquamarine Carbine"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires high energy energy beams."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["aquamarine_barrel"] = 1,
+    ["aquamarine_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_aquamarine"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "neutrino"
+RECIPE.name = "MTM Neutrino cannon"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires matter eating energy beams."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["neutrino_barrel"] = 1,
+    ["neutrino_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_neutrino"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "hellfire"
+RECIPE.name = "RK22 Hellfire SMG"
+RECIPE.category = "Weapons - SMG"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Fires incindinairy explosive rounds."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["hellfire_barrel"] = 1,
+    ["hellfire_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_hellfire"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "blizzard"
+RECIPE.name = "T3I Blizzard SMG"
+RECIPE.category = "Weapons - SMG"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Riot control, freezes targets solid. Never deployed due to crystal build up"
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["blizzard_barrel"] = 1,
+    ["blizzard_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_blizzard"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "behemoth"
+RECIPE.name = "RK800 Behemoth Chain-gun"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/astartes/prop pack/st_boxammo_01a.mdl" )
+RECIPE.desc = "A mysterious weapon. Charges up to unleash a storm of bullets."
+ 
+RECIPE.items = {
+    ["laronite_component"] = 1,
+    ["mirre_battery"] = 1,
+    ["marcherian_base"] = 1,
+    ["behemoth_barrel"] = 1,
+    ["behemoth_wiring"] = 1
+}
+RECIPE.result = {
+    ["sfw_behemoth"] = 1
+}
