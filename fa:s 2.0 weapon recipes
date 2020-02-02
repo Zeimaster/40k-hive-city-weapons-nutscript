@@ -1,0 +1,591 @@
+RECIPES:Register( RECIPE )
+//
+RECIPE = {}
+RECIPE.uid = "ak12"
+RECIPE.name = "Auto-gun Pattern AK12"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun Variant, fires in semi or fully automatic."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_ak12"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_ak12"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "ak47"
+RECIPE.name = "Auto-gun Pattern AK47"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun Variant, fires in semi or fully automatic. Is known to be cheap and inaccurate"
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_ak47"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_ak47"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "ak74"
+RECIPE.name = "Auto-gun Pattern AK74"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun Variant, fires in semi or fully automatic. Succesor to the AK47 pattern"
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_ak74"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_ak74"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "an94"
+RECIPE.name = "Auto-gun Pattern AN94"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun Variant, fires in burst, semi or fully automatic."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_an94"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_an94"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "svd"
+RECIPE.name = "Auto-gun Pattern Dragunov SVD"
+RECIPE.category = "Weapons - Sniper"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun Sniper Variant, fires semi automatic and is easy to handle."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_svd"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_svd"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "dv2knife"
+RECIPE.name = "DV2 Pattern Combat Knife"
+RECIPE.category = "Weapons - Melee"
+RECIPE.model = Model( "models/weapons/w_knife_ct.mdl" )
+RECIPE.desc = "A standard issue knife, utilized everywhere in service of the Emperor."
+ 
+RECIPE.items = {
+    ["knife_blade"] = 1,
+    ["knife_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_dv2"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "famas"
+RECIPE.name = "Auto-gun Pattern Famas F1"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun  Variant, fires in burst, semi or fully automatic, known for the unusual design."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_famas"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_famas"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "g36c"
+RECIPE.name = "Auto-gun Pattern G36C"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun  Variant, fires in burst, semi or fully automatic."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_g36c"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_g36c"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "g3a3"
+RECIPE.name = "Auto-gun Pattern G3A3"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun  Variant, fires in burst, semi or fully automatic."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_g3a3"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_g3"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "glock"
+RECIPE.name = "Auto-pistol Pattern Glock20"
+RECIPE.category = "Weapons - Pistol"
+RECIPE.model = Model( "models/warz/alicebackpack.mdl" )
+RECIPE.desc = "A Autopistol  Variant, fires semi automatic. Very common in the underhive"
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_glock"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_glock20"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "deagle"
+RECIPE.name = "Auto-pistol Pattern IMI Desert Eagle"
+RECIPE.category = "Weapons - Pistol"
+RECIPE.model = Model( "models/warz/alicebackpack.mdl" )
+RECIPE.desc = "A Autopistol  Variant, fires semi automatic. Big Caliber means leaving big holes"
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_deagle"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_deagle"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "galil"
+RECIPE.name = "Auto-gun Pattern IMI Galil"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun Variant, fires semi or fully automatic."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_galil"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_galil"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "uzi"
+RECIPE.name = "Auto-gun Pattern IMI UZI"
+RECIPE.category = "Weapons - SMG"
+RECIPE.model = Model( "models/warz/alicebackpack.mdl" )
+RECIPE.desc = "A Autogun Variant, fires semi or fully automatic. Utilized in high speed hit and runs."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_uzi"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_uzi"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "ks23"
+RECIPE.name = "Auto-shotgun Pattern KS23"
+RECIPE.category = "Weapons - Shotgun"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-shotgun Variant, Pump action. Deadly at many ranges."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_ks23"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_ks23"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m11a1"
+RECIPE.name = "Auto-gun Pattern M11A1"
+RECIPE.category = "Weapons - SMG"
+RECIPE.model = Model( "models/warz/alicebackpack.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Semi or fully automatic. spraying and praying is the way to go."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m11a1"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_mac11"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m14"
+RECIPE.name = "Auto-gun Pattern M14"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Semi automatic. Usefull for medium range."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m14"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m14"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m16a2"
+RECIPE.name = "Auto-gun Pattern M16A2"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Semi automatic or burst fire."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m16a2"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m16a2"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m1911"
+RECIPE.name = "Auto-pistol Pattern M1911"
+RECIPE.category = "Weapons - pistol"
+RECIPE.model = Model( "models/warz/alicebackpack.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Semi automatic. Small magazine"
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m1911"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m1911"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m21"
+RECIPE.name = "Auto-gun Pattern M21"
+RECIPE.category = "Weapons - Sniper"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-gun Sniper Variant, Semi automatic."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m21"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m21"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m24"
+RECIPE.name = "Auto-gun Pattern M24"
+RECIPE.category = "Weapons - Sniper"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-gun Sniper Variant, Bolt action."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m24"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m24"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m249"
+RECIPE.name = "Auto-gun Pattern M249"
+RECIPE.category = "Weapons - Machinegun"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-machinegun Variant, Automatic. Large magazine with a enormous rate of fire"
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m249"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m249"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m3s90"
+RECIPE.name = "Auto-shotgun Pattern M3S90"
+RECIPE.category = "Weapons - Shotgun"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-shotgun Variant, Semi-Automatic. Clears rooms like no other"
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m3s90"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m3s90"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m4a1"
+RECIPE.name = "Auto-gun Pattern M4A1"
+RECIPE.category = "Weapons - Rifle"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun Variant, semi and fully automatic."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m4a1"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m4a1"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m60e3"
+RECIPE.name = "Auto-gun Pattern M60E3"
+RECIPE.category = "Weapons - Machinegun"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-machinegun Variant, fully automatic with a large box magazine."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m60e3"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m60e3"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "m82"
+RECIPE.name = "Auto-gun Pattern M82"
+RECIPE.category = "Weapons - Sniper"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Autogun Sniper Variant, Large caliber that turns living tissue into a fine red mist"
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_m82"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_m82"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "machete"
+RECIPE.name = "Machete"
+RECIPE.category = "Weapons - Melee"
+RECIPE.model = Model( "models/warz/alicebackpack.mdl" )
+RECIPE.desc = "A standard issue Machette, utilized everywhere in service of the Emperor, to cut jungle and beast."
+ 
+RECIPE.items = {
+    ["machete_blade"] = 1,
+    ["machete_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_machete"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "vollmer"
+RECIPE.name = "Auto-gun Pattern MC51B"
+RECIPE.category = "Weapons - Machinegun"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-machinegun Variant, fully automatic with a medium size box magazine."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_vollmer"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_vollmer"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "minimi"
+RECIPE.name = "Auto-gun Pattern MINIMI"
+RECIPE.category = "Weapons - Machinegun"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-machinegun Variant, fully automatic with a large box magazine."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_minimi"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_minimi"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "mp5a5"
+RECIPE.name = "Auto-gun Pattern MP5A5"
+RECIPE.category = "Weapons - SMG"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Semi and fully automatic SMG. Sleek design enables easy use."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_mp5a5"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_mp5a5"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "mp5k"
+RECIPE.name = "Auto-gun Pattern MP5K"
+RECIPE.category = "Weapons - SMG"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Semi and fully automatic SMG. Smaller size means easier concealment."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_mp5k"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_mp5k"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "ots33"
+RECIPE.name = "Auto-Pistol Pattern OTS33"
+RECIPE.category = "Weapons - Pistol"
+RECIPE.model = Model( "models/warz/alicebackpack.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Semi and fully automatic pistol."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_ots33"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_ots33"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "ragingbull"
+RECIPE.name = "Auto-Pistol Pattern Raging Bull"
+RECIPE.category = "Weapons - Pistol"
+RECIPE.model = Model( "models/warz/alicebackpack.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Large Caliber revolver."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_ragingbull"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_ragingbull"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "rem870"
+RECIPE.name = "Auto-shotgun Pattern Remmington 870"
+RECIPE.category = "Weapons - Shotgun"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-shotgun Variant, Pump action. Can hold plenty of shots."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_rem870"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_rem870"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "12a3"
+RECIPE.name = "Auto-gun Pattern Sterling 12A3"
+RECIPE.category = "Weapons - SMG"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-gun Variant, Semi and fully automatic SMG. Smaller size means easier concealment."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_12a3"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_sterling_l2a3"] = 1
+}
+RECIPE = {}
+RECIPE.uid = "toz34"
+RECIPE.name = "Auto-shotgun Pattern TOZ-34"
+RECIPE.category = "Weapons - Shotgun"
+RECIPE.model = Model( "models/vj_props/duffle_bag.mdl" )
+RECIPE.desc = "A Auto-shotgun Variant in name only, Two shots. Used to hunt things best not named."
+ 
+RECIPE.items = {
+    ["auto_gun_stock"] = 1,
+    ["auto_gun_toz34"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
+}
+RECIPE.result = {
+    ["fas2_toz34"] = 1
+}
