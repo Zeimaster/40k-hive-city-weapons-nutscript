@@ -10,7 +10,7 @@ RECIPE.desc = "A mysterious weapon. Launches flechette that stick to their targe
 RECIPE.items = {
     ["laronite_component"] = 1,
     ["mirre_battery"] = 1,
-    ["marcherian_Base"] = 1,
+    ["marcherian_base"] = 1,
     ["hornet_barrel"] = 1,
     ["hornet_wiring"] = 1
 }
