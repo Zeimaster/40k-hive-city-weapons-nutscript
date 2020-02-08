@@ -9,10 +9,10 @@ RECIPE.desc = "A Auto-gun Variant, fully automatic with many attachments."
  
 RECIPE.items = {
     ["auto_gun_stock"] = 1,
-    ["auto_gun_frame"] = 1,
-    ["auto_gun_nova_barrel"] = 1,
-    ["auto_gun_nova_action"] = 1,
-    ["auto_gun_nova_grip"] = 1
+    ["auto_gun_nova_frame"] = 1,
+    ["auto_gun_barrel"] = 1,
+    ["auto_gun_action"] = 1,
+    ["auto_gun_grip"] = 1
 }
 RECIPE.result = {
     ["weapon_autogun"] = 1
@@ -29,7 +29,7 @@ RECIPE.items = {
     ["auto_gun_frame"] = 1,
     ["auto_gun_snova_barrel"] = 1,
     ["auto_gun_snova_action"] = 1,
-    ["auto_gun_snova_grip"] = 1
+    ["auto_gun_grip"] = 1
 }
 RECIPE.result = {
     ["weapon_autogun_sniper"] = 1
