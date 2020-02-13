@@ -26,7 +26,7 @@ RECIPE.desc = "A Auto-gun Sniper Variant, Semi automatic with many attachments."
  
 RECIPE.items = {
     ["auto_gun_stock"] = 1,
-    ["auto_gun_frame"] = 1,
+    ["auto_gun_nova_frame"] = 1,
     ["auto_gun_snova_barrel"] = 1,
     ["auto_gun_snova_action"] = 1,
     ["auto_gun_grip"] = 1
