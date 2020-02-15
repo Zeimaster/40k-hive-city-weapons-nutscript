@@ -1,0 +1,655 @@
+ITEM.name = "Laronite Component" --The name of the item. Shows up in the inventory and in the pickup menu
+ITEM.desc = "A metal component of a mysterious material. Pulsates slightly with electrical energy" --shows up on mouse-over in inventory and when e is pressed on it in-game
+ITEM.uniqueID = "laronite_component" --use this to make it match things like, if it is an item listed as a part to a recipe. the part in recipe must match this.
+ITEM.model = "models/container3.mdl"  --the model it shows up as in your inventory and in-game
+ITEM.material = "" --changes the entire texture of the item-ingame, and in inventory
+ITEM.price = ---set a number, no quotes
+ITEM.flag = "v" --what flags a character needs to access it in business menu
+ITEM.color = Color(1, 1, 1) -- needs to be Color(1, 1, 1) like so with numbers, changes the text of the item 
+ITEM.weight = 3.0 --in kilograms (0.0-1.0)
+
+ITEM.iconCam = { --I have no idea if this is right, and no idea how to pull the numbers to change it. 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Mirre Battery" --The name of the item. Shows up in the inventory and in the pickup menu
+ITEM.desc = "A Battery of unknown origin. Bears a sigil of some Noble house." --shows up on mouse-over in inventory and when e is pressed on it in-game
+ITEM.uniqueID = "mirre_battery" --use this to make it match things like, if it is an item listed as a part to a recipe. the part in recipe must match this.
+ITEM.model = "models/container3.mdl"  --the model it shows up as in your inventory and in-game
+ITEM.material = "" --changes the entire texture of the item-ingame, and in inventory
+ITEM.price = ---set a number, no quotes
+ITEM.flag = "v" --what flags a character needs to access it in business menu
+ITEM.color = Color(1, 1, 1) -- needs to be Color(1, 1, 1) like so with numbers, changes the text of the item 
+ITEM.weight = 2.0 --in kilograms (0.0-1.0)
+
+ITEM.iconCam = { --I have no idea if this is right, and no idea how to pull the numbers to change it. 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Macherian Base" 
+ITEM.desc = "A compound material of unknown origin. Is said to be blessed by Macharian himself while on his crusade." 
+ITEM.uniqueID = "marcherian_base" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Hornet Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Hornet". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "hornet_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Hornet Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Hornet". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "hornet_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Pulsar Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Pulsar". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "pulsar_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Pulsar Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Pulsar". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "pulsar_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Lapis Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Lapis". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "lapis_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Lapis Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Lapis". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "lapis_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Vapor Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Vapor". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "vapor_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Vapor Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Vapor". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "vapor_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Falling Star Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Falling star". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "fallingstar_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Falling Star Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Falling Star". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "fallingstar_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Storm Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Storm". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "storm_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Storm Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Storm". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "storm_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Phoenix Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Phoenix". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "phoenix_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Phoenix Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Phoenix". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "phoenix_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Ember Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Ember". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "ember_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Ember Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Ember". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "ember_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Seraphim Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Seraphim". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "seraphin_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Seraphim Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Seraphim". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "seraphin_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Pyre Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Pyre". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "pyre_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Pyre Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Pyre". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "pyre_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Heatwave Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Heatwave". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "hwave_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Heatwave Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Heatwave". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "hwave_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Sapphire Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Sapphire". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "saphyre_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Sapphire Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Sapphire". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "saphyre_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Pandemic Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Pandemic". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "pandemic_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Pandemic Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Pandemic". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "pandemic_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Draco Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Draco". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "draco_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Draco Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Draco". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "draco_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Aquamarine Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Aquamarine". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "aquamarine_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Aquamarine Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Aquamarine". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "aquamarine_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Neutrino Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Neutrino". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "neutrino_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Neutrino Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Neutrino". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "neutrino_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Hellfire Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Hellfire". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "hellfire_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Hellfire Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Hellfire". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "hellfire_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Blizzard Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Blizzard". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "blizzard_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Blizzard Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Blizzard". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "blizzard_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Behemoth Barrel" 
+ITEM.desc = "A weapon barrel of unknown origin for something called "Behemoth". Is said that one of the noble houses holds forbidden technology creating these." 
+ITEM.uniqueID = "behemoth_barrel" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+
+ITEM.name = "Behemoth Wiring" 
+ITEM.desc = "A set of wires that powers a weapon called "Behemoth". Is said that the nobles hold a STC of faulty nature." 
+ITEM.uniqueID = "behemoth_wiring" 
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 
+ITEM.flag = "v" 
+ITEM.color = Color(1, 1, 1) 
+ITEM.weight = 2.0 
+
+ITEM.iconCam = {  
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
