@@ -1,0 +1,120 @@
+ITEM.name = "Auto Gun Stock"
+ITEM.desc = "A weapon stock for auto guns that will help with stability when aiming, used to make any auto gun variants." 
+ITEM.uniqueID = "auto_gun_stock"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto Gun Barrel"
+ITEM.desc = "A weapon barrel for auto guns that will be used to shoot the bullet once fired, used to make any auto gun variants." 
+ITEM.uniqueID = "auto_gun_barrel"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto Gun Action"
+ITEM.desc = "A weapon action for auto guns that will be used for the prime and ejection of the bullet, used to make any auto gun variants." 
+ITEM.uniqueID = "auto_gun_action"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto Gun Grip"
+ITEM.desc = "a weapon grip for the auto guns that will help with stability when holding the weapon, used to make any auto gun variants." 
+ITEM.uniqueID = "auto_gun_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lasgun Conductor"
+ITEM.desc = "A lasgun conductor for lasguns that will be used for transfering the energy around the weapon, used to make any lasgun variants." 
+ITEM.uniqueID = "las_conductor"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lasgun barrel"
+ITEM.desc = "A lasgun barell for lasguns that will be used for firing the energy at a target, used to make any lasgun variants." 
+ITEM.uniqueID = "las_barrel"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Knife Blade"
+ITEM.desc = "A combat knife blade used at the main part of a knife" 
+ITEM.uniqueID = "knife_blade"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Knife Grip"
+ITEM.desc = "A combat knife grip used for holding the knife" 
+ITEM.uniqueID = "knife_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
