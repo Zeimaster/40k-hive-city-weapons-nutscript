@@ -1,0 +1,525 @@
+ITEM.name = "Auto-gun Pattern AK12 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the AK12" 
+ITEM.uniqueID = "auto_gun_ak12"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern AK47 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the AK47" 
+ITEM.uniqueID = "auto_gun_ak47"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern AK74 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the AK74" 
+ITEM.uniqueID = "auto_gun_ak74"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern AN94 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the AN94" 
+ITEM.uniqueID = "auto_gun_an94"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern Dragunov SVD Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the SVD" 
+ITEM.uniqueID = "auto_gun_svd"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern Famas F1 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Famas" 
+ITEM.uniqueID = "auto_gun_famas"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern G36C Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making G36C" 
+ITEM.uniqueID = "auto_gun_g36c"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern G3A3 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the G3A3" 
+ITEM.uniqueID = "auto_gun_g3a3"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-pistol Pattern Glock20 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Glock" 
+ITEM.uniqueID = "auto_gun_glock"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-pistol Pattern IMI Desert Eagle Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Deagle" 
+ITEM.uniqueID = "auto_gun_deagle"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern IMI Galil Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Galil" 
+ITEM.uniqueID = "auto_gun_galil"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern IMI UZI Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Uzi" 
+ITEM.uniqueID = "auto_gun_uzi"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-shotgun Pattern KS23 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the KS23" 
+ITEM.uniqueID = "auto_gun_ks23"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M11A1 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M11A1" 
+ITEM.uniqueID = "auto_gun_m11a1"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M14 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M14" 
+ITEM.uniqueID = "auto_gun_m14"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M16A2 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M16A2" 
+ITEM.uniqueID = "auto_gun_m16a2"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-pistol Pattern M1911 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M1911" 
+ITEM.uniqueID = "auto_gun_m1911"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M21 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M21" 
+ITEM.uniqueID = "auto_gun_m21"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M24 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M24" 
+ITEM.uniqueID = "auto_gun_m24"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M249 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making M239" 
+ITEM.uniqueID = "auto_gun_m249"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-shotgun Pattern M3S90 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M3S90" 
+ITEM.uniqueID = "auto_gun_m3s90"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M4A1 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M4A1" 
+ITEM.uniqueID = "auto_gun_m4a1"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M60E3 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the M60E3" 
+ITEM.uniqueID = "auto_gun_m60e3"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern M82 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making M82" 
+ITEM.uniqueID = "auto_gun_m82"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Machete Blade"
+ITEM.desc = "A machete blade used as the main part of the machete" 
+ITEM.uniqueID = "machete_blade"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Machete Grip"
+ITEM.desc = "A machete grip used for holding the machete" 
+ITEM.uniqueID = "machete_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern MC51B Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the MC51B" 
+ITEM.uniqueID = "auto_gun_vollmer"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern MINIMI Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the MINIMI" 
+ITEM.uniqueID = "auto_gun_minimi"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern MP5A5 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the MP5A5" 
+ITEM.uniqueID = "auto_gun_mp5a5"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern MP5K Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the MP5K" 
+ITEM.uniqueID = "auto_gun_mp5k"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-Pistol Pattern OTS33 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the OTS33" 
+ITEM.uniqueID = "auto_gun_ots33"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-Pistol Pattern Raging Bull Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Raging Bull" 
+ITEM.uniqueID = "auto_gun_ragingbull"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-shotgun Pattern Remmington 870 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Remmington 870" 
+ITEM.uniqueID = "auto_gun_rem870"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern Sterling 12A3 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Sterling 12A3" 
+ITEM.uniqueID = "auto_gun_12a3"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-shotgun Pattern TOZ-34 Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the TOZ - 34" 
+ITEM.uniqueID = "auto_gun_toz34"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
