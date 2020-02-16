@@ -1,0 +1,764 @@
+ITEM.name = "Auto-gun Pattern Nova Frame"
+ITEM.desc = "A auto gun frame that will be the base for the weapon, used for making the Nova" 
+ITEM.uniqueID = "auto_gun_nova_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern Nova Sniper Action"
+ITEM.desc = "A auto gun action that will be used for the weapon system, used for making the Nova Sniper" 
+ITEM.uniqueID = "auto_gun_nova_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Auto-gun Pattern Nova Sniper Barrel"
+ITEM.desc = "A auto gun barrel that will be used for the bullet to be shot, used for making the Nova Sniper" 
+ITEM.uniqueID = "auto_gun_snova_barrel"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolt Pistol Frame"
+ITEM.desc = "A bolt pistol frame that will be the base for the weapon, used for making the bolt pistol" 
+ITEM.uniqueID = "boltpistol_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolt Pistol Barrel"
+ITEM.desc = "A weapon barrel for a bolt pistol that will be used to shoot the bullet once fired, used to make a bolt pistol" 
+ITEM.uniqueID = "boltpistol_barrel"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolt Pistol Action"
+ITEM.desc = "A weapon action for bolt pistol that will be used for the prime and ejection of the bullet, used to make a bolt pistol" 
+ITEM.uniqueID = "boltpistol_action"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolt Pistol Grip"
+ITEM.desc = "A weapon grip for the bolt pistol that will help with stability when holding the weapon, used to make a bolt pistol" 
+ITEM.uniqueID = "boltpistol_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolt Pistol Ejection system"
+ITEM.desc = "A weapon ejection system for the bolt pistol that will assist with ejecting rounds once fired, used for making a bolt pistol" 
+ITEM.uniqueID = "boltpistol_eject_system"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolter Ejection System"
+ITEM.desc = "A weapon ejection system for the bolter that will assist with ejecting rounds once fired, used for making a bolter" 
+ITEM.uniqueID = "bolter_eject_system"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolter Frame"
+ITEM.desc = "A bolter frame that will be the base for the weapon, used for making the bolter gun" 
+ITEM.uniqueID = "bolter_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 5
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolter Barrel"
+ITEM.desc = "A weapon barrel for a bolter that will be used to shoot the bullet once fired, used to make a bolter" 
+ITEM.uniqueID = "bolter_barrel"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 4
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolter Action"
+ITEM.desc = "A weapon action for a bolter that will be used for the prime and ejection of the bullet, used to make a bolter" 
+ITEM.uniqueID = "bolter_action"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Bolter Grip"
+ITEM.desc = "A weapon grip for the a bolter that will help with stability when holding the weapon, used to make a bolter" 
+ITEM.uniqueID = "bolter_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Nova Terra Pattern Grenade Launcher Rotery Cylinder"
+ITEM.desc = "A grenade launcher rotery cylinder that is used for cycling the grenade rounds once fired, used for making a grenade launcher" 
+ITEM.uniqueID = "grlauncer_rotery_cylinder"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Nova Terra Pattern Grenade Launcher Frame"
+ITEM.desc = "A grenade launcher frame that will be the base for the weapon, used for making the Nova Terra Pattern Grenade Launcher Frame" 
+ITEM.uniqueID = "grlauncer_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Nova Terra Pattern Grenade Launcher Barrel"
+ITEM.desc = "A weapon barrel for a grenade launcher that will be used to shoot the grenades once fired, used to make a grenade launcher" 
+ITEM.uniqueID = "grlauncer_barrel"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Nova Terra Pattern Grenade Launcher Grip"
+ITEM.desc = "A weapon grip for the a grenade launcher that will help with stability when holding the weapon, used to make a grenade launcher" 
+ITEM.uniqueID = "grlauncer_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Nova Terra Pattern Grenade Launcher Ejection System"
+ITEM.desc = "A weapon ejection system for the grenade launcher that will assist with ejecting rounds once fired, used for making a grenade launcher" 
+ITEM.uniqueID = "grlauncer_eject_system"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Laspistol Frame"
+ITEM.desc = "A laspistol frame that will be the base for the weapon, used for making the laspistol" 
+ITEM.uniqueID = "laspistol_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Laspistol Grip"
+ITEM.desc = "A weapon grip for the laspistol that will help with stability when holding the weapon, used to make a laspistol" 
+ITEM.uniqueID = "laspistol_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lascarbine Stock"
+ITEM.desc = "A weapon stock for lascarbine that will help with stability when aiming, used to make a lascarbine" 
+ITEM.uniqueID = "lascarbine_stock"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lascarbine Frame"
+ITEM.desc = "A lascarbine frame that will be the base for the weapon, used for making the lascarbine" 
+ITEM.uniqueID = "lascarbine_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lascarbine Lens"
+ITEM.desc = "A lasgun lens for the lascarbine that will focus the energy of a charge pack to shoot as a beam towards the target, used for making a lascarbine" 
+ITEM.uniqueID = "lascarbine_lens"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lasgun Stock"
+ITEM.desc = "A weapon stock for a lasgun that will help with stability when aiming, used to make a lasgun" 
+ITEM.uniqueID = "lasgun_stock"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lasgun Frame"
+ITEM.desc = "A lasgun frame that will be the base for the weapon, used for making the lasgun" 
+ITEM.uniqueID = "lasgun_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lasgun Lens"
+ITEM.desc = "A lasgun lens for the lasgun that will focus the energy of a charge pack to shoot as a beam towards the target, used for making a lasgun" 
+ITEM.uniqueID = "lasgun_lens"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Longlas Stock"
+ITEM.desc = "A weapon stock for a longlas that will help with stability when aiming, used to make a longlas" 
+ITEM.uniqueID = "longlas_stock"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Longlas Frame"
+ITEM.desc = "A longlas frame that will be the base for the weapon, used for making the longlas" 
+ITEM.uniqueID = "longlas_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Longlas Lens"
+ITEM.desc = "A lasgun lens for the longlas that will focus the energy of a charge pack to shoot as a beam towards the target, used for making a longlas" 
+ITEM.uniqueID = "longlas_lens"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lucius Pattern Lasgun Stock"
+ITEM.desc = "A weapon stock for lucius lasgun that will help with stability when aiming, used to make a lucius lasgun" 
+ITEM.uniqueID = "luciuslas_stock"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lucius Pattern Lasgun Frame"
+ITEM.desc = "A lucius pattern lasgun frame that will be the base for the weapon, used for making the lucius pattern lasgun" 
+ITEM.uniqueID = "luciuslas_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Lucius Pattern Lasgun Lens"
+ITEM.desc = "A lasgun lens for the lucius pattern lasgun that will focus the energy of a charge pack to shoot as a beam towards the target, used for making a lucius pattern lasgun" 
+ITEM.uniqueID = "luciuslas_lens"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Chainsword Motor"
+ITEM.desc = "A chainsword motor that is used for the motion of the chainsowrd teeth to help rend into the target, used for making a chainsword" 
+ITEM.uniqueID = "chainsword_motor"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Chainsword Teeth"
+ITEM.desc = "A set of chainsword teeth that are used as the blades for a chainsword, used for making a chainsword" 
+ITEM.uniqueID = "chainsword_teeth"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Chainsword Grip"
+ITEM.desc = "a weapon grip for the chainsword that will help with stability when holding the weapon, used to make a chainsword" 
+ITEM.uniqueID = "chaisword_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Chainsword Trigger"
+ITEM.desc = "A chainsword trigger that are used for setting off the motor of the chainsword, used for making a chainsword" 
+ITEM.uniqueID = "chainsword_trigger"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Chainsword Frame"
+ITEM.desc = "A chainsword frame that will be the base for the weapon, used for making the chainsword" 
+ITEM.uniqueID = "chainsword_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Melta Coolent"
+ITEM.desc = "A melta coolent used for letting the melta system cool dowm before another shot, used to make a meltagun" 
+ITEM.uniqueID = "melta_coolent"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Melta Barrel"
+ITEM.desc = "A weapon barrel for a melta that will be used to shoot the bullet once fired, used to make a meltagun" 
+ITEM.uniqueID = "melta_barrel"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Melta Frame"
+ITEM.desc = "A melta frame that will be the base for the weapon, used to make a meltagun" 
+ITEM.uniqueID = "melta_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Melta Heatchamber"
+ITEM.desc = "A melta heatchamber used for storing the heat of the meltagun to make sure it doesn't overload, used to make a hellgun" 
+ITEM.uniqueID = "melta_heatchamber"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Melta Grip"
+ITEM.desc = "a weapon grip for the melta that will help with stability when holding the weapon, used to make a meltagun" 
+ITEM.uniqueID = "melta_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Rocketlauncher Grip"
+ITEM.desc = "a weapon grip for the rocketlauncher that will help with stability when holding the weapon, used to make a rocketlauncher" 
+ITEM.uniqueID = ""
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Rocketlauncher Barrel"
+ITEM.desc = "A weapon barrel for a rocketlauncher that will be used to shoot the rocket once fired, used to make a rocketlauncher" 
+ITEM.uniqueID = ""
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Rocketlauncher Frame"
+ITEM.desc = "A rocketlauncher frame that will be the base for the weapon, used for making the rocketlauncher" 
+ITEM.uniqueID = ""
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 4
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Rocketlauncher Action"
+ITEM.desc = "A weapon action for a rocketlauncher that will be used for the prime and ejection of the rocket, used to make a rocketlauncher" 
+ITEM.uniqueID = ""
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Hellgun Stock"
+ITEM.desc = "A weapon stock for a hellgun that will help with stability when aiming, used to make a hellgun" 
+ITEM.uniqueID = "hellgun_stock"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Hellgun Frame"
+ITEM.desc = "A hellgun frame that will be the base for the weapon, used for making the hellgun" 
+ITEM.uniqueID = "hellgun_frame"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 3
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Hellgun Barrel"
+ITEM.desc = "A weapon barrel for a hellgun that will be used to shoot the energy once fired, used to make a hellgun" 
+ITEM.uniqueID = "hellgun_barrel"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 2
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Hellgun Grip"
+ITEM.desc = "a weapon grip for the hellgun that will help with stability when holding the weapon, used to make a hellgun" 
+ITEM.uniqueID = "hellgun_grip"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
+}
+ITEM.name = "Hellgun Lens"
+ITEM.desc = "A lasgun lens for the hellgun that will focus the energy of a charge pack to shoot as a beam towards the target, used for making a hellgun" 
+ITEM.uniqueID = "hellgun_lens"
+ITEM.model = "models/container3.mdl"  
+ITEM.material = "" 
+ITEM.price = 0
+ITEM.flag = "v"
+ITEM.color = Color(1, 1, 1)
+ITEM.weight = 1
+
+ITEM.iconCam = { 
+    pos = Vector(65.475090026855, 54.940116882324, 39.856090545654),
+    ang = Angle(25, 220, 0),
+    fov = 4.2514867803092,
